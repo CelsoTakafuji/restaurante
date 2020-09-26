@@ -1,0 +1,19 @@
+HOW TO INSTALL THE SCRIPT
+
+i) Download the latest update from the download section.
+
+ii) Extract the script in your localhost or web server.
+
+iii) Point your browser to www.yoursite.com/install.
+
+iv) Follow the installation instructions.
+
+v) If everything goes well. It is not necessary, but manually import pizza_inn.sql database (found under install->database) to create sample content and styling. In future updates, this process will be a breeze:-)
+
+vi) If you didn't do step v above, please make sure you have filled all the required items under "Options" and "Content" from the backend.
+
+vii) Please note that "Template" configurations (provides general styling) from the backend will remain as default unless otherwise modified by the administrator.
+
+viii) If you encounter any problem regarding the installation, please use the Wiki to get your query answered quickly.
+
+ix) Please recommend our script and leave comments/PM if you need any personalized help.

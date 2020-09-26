@@ -1,0 +1,9 @@
+We have placed a lot of work in making Restaurant Script as free as possible with no strings attached. It is the only totally free Open Source restaurant online ordering system available on the internet. Others are free with very limited features while others cost hundreds of dollars to purchase. This one is unique as it is totally Open Source and it will remain so as long as possible.
+
+If you have benefited in one way or another by using our script and you have a heart of supporting Open Source projects, We will appreciate any form of support you will provide in keeping this script alive and in continuous development.
+
+Donation: http://sourceforge.net/p/restaurantmis/donate/
+Wiki: http://sourceforge.net/p/restaurantmis/wiki/
+
+Thank you for your support and God bless you.
+macdonaldgeek
